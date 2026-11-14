@@ -1,4 +1,4 @@
 {
- "d": "{\"version\":\"2.6\",\"fecha\":\"2026-11-14\",\"notas\":\"• Aviso de actualización dentro del programa\\n• Mezclador estilo vMix con perillas y transiciones\\n• Interfaz más simple (5 pestañas)\\n• Arreglo de «+ Videos…»\",\"url\":\"https://raw.githubusercontent.com/victordelrosario09/Autocanal/main/AutoCanal.exe\",\"sha256\":\"10a815f53cc5fd55f1867a25174ddfa75ade72f7363ca2d6c5a020d2c179dac2\",\"obligatoria\":false}",
- "firma": "F-_pNgw_-7SZHMWGvN_FwvifZF6ZbcXJ9SHtY3YnTg6BTr0I1ye04j1XPIpekkYv1V6s5yQwf8BaWQsWtpqLBQ"
+ "d": "{\"version\":\"2.6.1\",\"fecha\":\"2026-11-14\",\"notas\":\"• Ahora AutoCanal instala solo el componente WebView2 de Windows si falta,\\n  y abre en su ventana propia sin que tengas que hacer nada.\\n• Incluye todo lo de la 2.6 (aviso de actualizaciones) y 2.5.1.\",\"url\":\"https://raw.githubusercontent.com/victordelrosario09/Autocanal/main/AutoCanal.exe\",\"sha256\":\"9747ee8da1fb4178e1132ceeda8b5df03f78548eb7e293c8ba618c0ea0030925\",\"obligatoria\":false}",
+ "firma": "IHBuBom0Mkld7ygPyjeYHFAyYyPTnIpmI5Ci6lKxnyEEGQWPoy5wvNU_P_lqnpbG3-tgsOyze7Jz-dY58B4wCQ"
 }
