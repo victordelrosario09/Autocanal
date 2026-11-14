@@ -1,4 +1,4 @@
 {
- "d": "{\"version\":\"2.6\",\"fecha\":\"2026-11-14\",\"notas\":\"• Aviso de actualización dentro del programa\\n• Mezclador estilo vMix con perillas y transiciones\\n• Interfaz más simple (5 pestañas)\\n• Arreglo de «+ Videos…»\",\"url\":\"https://github.com/victordelrosario09/Autocanal/releases/download/v2.6/AutoCanal.exe\",\"sha256\":\"10a815f53cc5fd55f1867a25174ddfa75ade72f7363ca2d6c5a020d2c179dac2\",\"obligatoria\":false}",
- "firma": "r1NER_EydYlRAYuIUacN4ZW7dRivV9s0GroKEr9F7Tx0Qkd_w4Ove_HUHRfqGvLB4DBmX5Zg1JJcIBC52j11AQ"
+ "d": "{\"version\":\"2.6\",\"fecha\":\"2026-11-14\",\"notas\":\"• Aviso de actualización dentro del programa\\n• Mezclador estilo vMix con perillas y transiciones\\n• Interfaz más simple (5 pestañas)\\n• Arreglo de «+ Videos…»\",\"url\":\"https://raw.githubusercontent.com/victordelrosario09/Autocanal/main/AutoCanal.exe\",\"sha256\":\"10a815f53cc5fd55f1867a25174ddfa75ade72f7363ca2d6c5a020d2c179dac2\",\"obligatoria\":false}",
+ "firma": "F-_pNgw_-7SZHMWGvN_FwvifZF6ZbcXJ9SHtY3YnTg6BTr0I1ye04j1XPIpekkYv1V6s5yQwf8BaWQsWtpqLBQ"
 }
